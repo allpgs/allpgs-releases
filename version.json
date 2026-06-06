@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "apkUrl": "https://github.com/allpgs/allpgs-releases/releases/download/v1.0.3/allpgs-1.0.3.apk",
-  "releaseNotes": "fix"
+  "version": "1.0.4",
+  "apkUrl": "https://github.com/allpgs/allpgs-releases/releases/download/v1.0.4/allpgs-1.0.4.apk",
+  "releaseNotes": "add intro screen and delete mock data"
 }
