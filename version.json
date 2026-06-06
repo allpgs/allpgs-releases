@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "apkUrl": "https://github.com/allpgs/allpgs-releases/releases/download/v1.0.1/allpgs-1.0.1.apk",
-  "releaseNotes": "Fixed login issues and improved app performance"
+  "version": "1.0.2",
+  "apkUrl": "https://github.com/allpgs/allpgs-releases/releases/download/v1.0.2/allpgs-1.0.2.apk",
+  "releaseNotes": "Firebase analytics"
 }
